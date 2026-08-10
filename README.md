@@ -50,69 +50,273 @@ class RashmiGuddappanavar:
 <br>
 
 <table align="center">
+
+<!-- Row 1 -->
 <tr>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=python" alt="Python" width="65" height="65" />
 <br>Python
 </td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-<br>JavaScript
-</td>
+
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=c" alt="C" width="65" height="65" />
 <br>C
 </td>
+
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=java" alt="Java" width="65" height="65" />
 <br>Java
 </td>
+
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
-<br>Django
+<img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="65" height="65" />
+<br>JavaScript
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="65" height="65" />
+<br>HTML5
 </td>
 </tr>
+
+<!-- Row 2 -->
 <tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="65" height="65" />
+<br>CSS3
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=django" alt="Django" width="65" height="65" />
+<br>Django
+</td>
+
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="65" height="65" />
 <br>Flask
 </td>
+
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=fastapi" width="65" height="65" alt="FastAPI" />
+<img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="65" height="65" />
 <br>FastAPI
 </td>
+
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-<br>MySQL
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" alt="TensorFlow" />
-<br>TensorFlow
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=opencv" width="65" height="65" alt="OpenCV" />
-<br>OpenCV
+<img src="https://skillicons.dev/icons?i=react" alt="ReactJS" width="65" height="65" />
+<br>ReactJS
 </td>
 </tr>
+
+<!-- Row 3 -->
 <tr>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="65" height="65" />
+<br>Next.js
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="65" height="65" />
+<br>MySQL
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="65" height="65" />
+<br>SQLite
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" alt="Git" width="65" height="65" />
+<br>Git
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="65" height="65" />
 <br>GitHub
 </td>
+</tr>
+
+<!-- Row 4 -->
+<tr>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
-<br>REST API
+<img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="65" height="65" />
+<br>Docker
 </td>
+
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-<br>AWS
+<img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="65" height="65" />
+<br>Kubernetes
 </td>
+
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-<br>React
+<img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="65" height="65" />
+<br>Jenkins
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="65" height="65" />
+<br>Terraform
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="65" height="65" />
+<br>Linux
 </td>
 </tr>
+
+<!-- Row 5 -->
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="65" height="65" />
+<br>AWS
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="65" height="65" />
+<br>PowerShell
+</td>
+
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST APIs" width="65" height="65" />
+<br>REST APIs
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="65" height="65" />
+<br>TensorFlow
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="65" height="65" />
+<br>PyTorch
+</td>
+</tr>
+
+<!-- Row 6 -->
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="65" height="65" />
+<br>OpenCV
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn" width="65" height="65" />
+<br>Scikit-learn
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" width="65" height="65" />
+<br>Pandas
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" width="65" height="65" />
+<br>NumPy
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=gitlab" alt="CI/CD" width="65" height="65" />
+<br>CI/CD
+</td>
+</tr>
+
 </table>
+
+<br>
+
+### 🤖 AI / ML / GenAI
+
+<table align="center">
+<tr>
+
+<td align="center" width="120">
+🧠<br><b>Machine Learning</b>
+</td>
+
+<td align="center" width="120">
+🤖<br><b>Deep Learning</b>
+</td>
+
+<td align="center" width="120">
+💬<br><b>NLP</b>
+</td>
+
+<td align="center" width="120">
+👁️<br><b>Computer Vision</b>
+</td>
+
+<td align="center" width="120">
+🧩<br><b>BERT</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="120">
+🎯<br><b>YOLO</b>
+</td>
+
+<td align="center" width="120">
+🧠<br><b>LLMs</b>
+</td>
+
+<td align="center" width="120">
+🔗<br><b>RAG</b>
+</td>
+
+<td align="center" width="120">
+✍️<br><b>Prompt Engineering</b>
+</td>
+
+<td align="center" width="120">
+⚙️<br><b>AI Integration</b>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+### 🔧 AI-Assisted Development
+
+<table align="center">
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=github" width="55" height="55" />
+<br>GitHub Copilot
+</td>
+
+<td align="center" width="120">
+🤖<br><b>ChatGPT</b>
+</td>
+
+<td align="center" width="120">
+🧠<br><b>Claude Code</b>
+</td>
+
+<td align="center" width="120">
+⚡<br><b>Cursor</b>
+</td>
+
+<td align="center" width="120">
+💻<br><b>Codex</b>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+### 🚀 Development & Engineering
+
+<p align="center">
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/SDLC-4B0082?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Agile%2FScrum-2496ED?style=for-the-badge" />
+</p>
 
 </details>
 
