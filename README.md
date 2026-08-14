@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Animated Wave -->
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Rashmi%20Guddappanavar&fontSize=60&fontAlignY=35&desc=Innovating%20with%20AI%20•%20Building%20Full-Stack%20%26%20Data%20Solutions&descAlignY=55&animation=twinkling)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Rashmi%20Guddappanavar&fontSize=60&fontAlignY=35&desc=Innovating%20with%20AI%20•%20Building%20Full-Stack%20Solutions&descAlignY=55&animation=twinkling)
 
   <!-- Dynamic Typing Effect -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%26+Machine+Learning;Python+Full-Stack+Developer+%7C+Data+%26+AI+Enthusiast;Building+Scalable+Software%2C+Data+Pipelines+%26+AI+Solutions)](https://git.io/typing-svg)
