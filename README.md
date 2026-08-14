@@ -1,10 +1,10 @@
 <div align="center">
 
   <!-- Animated Wave -->
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Rashmi%20Guddappanavar&fontSize=60&fontAlignY=35&desc=Innovating%20with%20AI%20•%20Building%20Full-Stack%20Solutions&descAlignY=55&animation=twinkling)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Rashmi%20Guddappanavar&fontSize=60&fontAlignY=35&desc=Innovating%20with%20AI%20•%20Building%20Full-Stack%20%26%20Data%20Solutions&descAlignY=55&animation=twinkling)
 
   <!-- Dynamic Typing Effect -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%26+Machine+Learning;Python+Full-Stack+Developer+%7C+AI%2FML+Enthusiast;Building+Scalable+Software+%26+Real-World+AI+Solutions)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%26+Machine+Learning;Python+Full-Stack+Developer+%7C+Data+%26+AI+Enthusiast;Building+Scalable+Software%2C+Data+Pipelines+%26+AI+Solutions)](https://git.io/typing-svg)
 
   <!-- Visitor Badge & Social Links -->
   <p align="center">
@@ -27,16 +27,18 @@ class RashmiGuddappanavar:
         self.focus = [
             "Python Full-Stack Development",
             "AI & Machine Learning Applications",
+            "Data Analytics & Business Intelligence",
             "REST API Design",
             "Problem Solving"
         ]
-        self.mindset = "Transforming ideas into scalable, real-world software solutions"
+        self.mindset = "Transforming ideas into scalable, real-world software & data solutions"
 
     def current_work(self):
         return [
             "Building full-stack applications using Django & Flask",
             "Deploying ML models via REST APIs",
-            "Exploring computer vision and NLP use cases"
+            "Building real-time analytics dashboards & BI reports",
+            "Exploring computer vision, NLP and LLM/RAG use cases"
         ]
 ```
 
@@ -87,6 +89,15 @@ class RashmiGuddappanavar:
 </td>
 
 <td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" alt="SQL" width="65" height="65" />
+<br>SQL
+</td>
+
+<td align="center" width="96">
+🧮<br>VBA
+</td>
+
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=django" alt="Django" width="65" height="65" />
 <br>Django
 </td>
@@ -95,7 +106,10 @@ class RashmiGuddappanavar:
 <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="65" height="65" />
 <br>Flask
 </td>
+</tr>
 
+<!-- Row 3 -->
+<tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="65" height="65" />
 <br>FastAPI
@@ -105,10 +119,7 @@ class RashmiGuddappanavar:
 <img src="https://skillicons.dev/icons?i=react" alt="ReactJS" width="65" height="65" />
 <br>ReactJS
 </td>
-</tr>
 
-<!-- Row 3 -->
-<tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="65" height="65" />
 <br>Next.js
@@ -123,7 +134,10 @@ class RashmiGuddappanavar:
 <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="65" height="65" />
 <br>SQLite
 </td>
+</tr>
 
+<!-- Row 4 -->
+<tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=git" alt="Git" width="65" height="65" />
 <br>Git
@@ -133,10 +147,12 @@ class RashmiGuddappanavar:
 <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="65" height="65" />
 <br>GitHub
 </td>
-</tr>
 
-<!-- Row 4 -->
-<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="65" height="65" />
+<br>VS Code
+</td>
+
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="65" height="65" />
 <br>Docker
@@ -146,7 +162,10 @@ class RashmiGuddappanavar:
 <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="65" height="65" />
 <br>Kubernetes
 </td>
+</tr>
 
+<!-- Row 5 -->
+<tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="65" height="65" />
 <br>Jenkins
@@ -161,10 +180,7 @@ class RashmiGuddappanavar:
 <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="65" height="65" />
 <br>Linux
 </td>
-</tr>
 
-<!-- Row 5 -->
-<tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="65" height="65" />
 <br>AWS
@@ -172,9 +188,12 @@ class RashmiGuddappanavar:
 
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="65" height="65" />
-<br>PowerShell
+<br>PowerShell / Batch
 </td>
+</tr>
 
+<!-- Row 6 -->
+<tr>
 <td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST APIs" width="65" height="65" />
 <br>REST APIs
@@ -189,10 +208,7 @@ class RashmiGuddappanavar:
 <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="65" height="65" />
 <br>PyTorch
 </td>
-</tr>
 
-<!-- Row 6 -->
-<tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="65" height="65" />
 <br>OpenCV
@@ -202,7 +218,10 @@ class RashmiGuddappanavar:
 <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn" width="65" height="65" />
 <br>Scikit-learn
 </td>
+</tr>
 
+<!-- Row 7 -->
+<tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" width="65" height="65" />
 <br>Pandas
@@ -211,6 +230,14 @@ class RashmiGuddappanavar:
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" width="65" height="65" />
 <br>NumPy
+</td>
+
+<td align="center" width="96">
+📊<br>Power BI
+</td>
+
+<td align="center" width="96">
+📈<br>Tableau
 </td>
 
 <td align="center" width="96">
@@ -223,55 +250,84 @@ class RashmiGuddappanavar:
 
 <br>
 
+### 📊 Data Analytics & BI
+
+<table align="center">
+<tr>
+<td align="center" width="140">📥<br><b>ETL</b></td>
+<td align="center" width="140">🔍<br><b>EDA</b></td>
+<td align="center" width="140">🧮<br><b>RFM Analysis</b></td>
+<td align="center" width="140">🧑‍🤝‍🧑<br><b>Customer Segmentation</b></td>
+<td align="center" width="140">📉<br><b>Churn Analysis</b></td>
+</tr>
+<tr>
+<td align="center" width="140">🗂️<br><b>SQL Views</b></td>
+<td align="center" width="140">🏗️<br><b>Data Modeling</b></td>
+<td align="center" width="140">📐<br><b>DAX (Power BI)</b></td>
+<td align="center" width="140">🧮<br><b>Calculated Fields (Tableau)</b></td>
+<td align="center" width="140">📗<br><b>Excel</b></td>
+</tr>
+</table>
+
+<br>
+
+### ⚡ Real-Time & Web Analytics
+
+<table align="center">
+<tr>
+<td align="center" width="150">🔄<br><b>Live Transaction Simulation</b></td>
+<td align="center" width="150">📡<br><b>Real-Time KPI Updates</b></td>
+<td align="center" width="150">🔁<br><b>Auto-Refresh Dashboards</b></td>
+<td align="center" width="150">🌐<br><b>AJAX / Fetch API</b></td>
+<td align="center" width="150">📊<br><b>Chart.js</b></td>
+</tr>
+</table>
+
+<br>
+
+### ✅ Testing & Quality
+
+<table align="center">
+<tr>
+<td align="center" width="150">🧪<br><b>Unit Testing</b></td>
+<td align="center" width="150">🔌<br><b>API Testing</b></td>
+<td align="center" width="150">🧹<br><b>Data Validation</b></td>
+<td align="center" width="150">📋<br><b>KPI Reconciliation</b></td>
+</tr>
+</table>
+
+<br>
+
 ### 🤖 AI / ML / GenAI
 
 <table align="center">
 <tr>
-
-<td align="center" width="120">
-🧠<br><b>Machine Learning</b>
-</td>
-
-<td align="center" width="120">
-🤖<br><b>Deep Learning</b>
-</td>
-
-<td align="center" width="120">
-💬<br><b>NLP</b>
-</td>
-
-<td align="center" width="120">
-👁️<br><b>Computer Vision</b>
-</td>
-
-<td align="center" width="120">
-🧩<br><b>BERT</b>
-</td>
-
+<td align="center" width="120">🧠<br><b>Machine Learning</b></td>
+<td align="center" width="120">🤖<br><b>Deep Learning</b></td>
+<td align="center" width="120">💬<br><b>NLP</b></td>
+<td align="center" width="120">👁️<br><b>Computer Vision</b></td>
+<td align="center" width="120">🧩<br><b>BERT</b></td>
 </tr>
-
 <tr>
-
-<td align="center" width="120">
-🎯<br><b>YOLO</b>
-</td>
-
-<td align="center" width="120">
-🧠<br><b>LLMs</b>
-</td>
-
-<td align="center" width="120">
-🔗<br><b>RAG</b>
-</td>
-
-<td align="center" width="120">
-✍️<br><b>Prompt Engineering</b>
-</td>
-
-<td align="center" width="120">
-⚙️<br><b>AI Integration</b>
-</td>
-
+<td align="center" width="120">🎯<br><b>YOLO</b></td>
+<td align="center" width="120">🧠<br><b>LLMs</b></td>
+<td align="center" width="120">🔗<br><b>RAG</b></td>
+<td align="center" width="120">🦜<br><b>LangChain</b></td>
+<td align="center" width="120">🕸️<br><b>LangGraph</b></td>
+</tr>
+<tr>
+<td align="center" width="120">🧬<br><b>Generative AI</b></td>
+<td align="center" width="120">📚<br><b>Vector Databases</b></td>
+<td align="center" width="120">🔎<br><b>Embeddings & Semantic Search</b></td>
+<td align="center" width="120">🧠<br><b>AI Agents</b></td>
+<td align="center" width="120">🛠️<br><b>Fine-Tuning</b></td>
+</tr>
+<tr>
+<td align="center" width="120">✍️<br><b>Prompt Engineering</b></td>
+<td align="center" width="120">⚙️<br><b>AI Integration</b></td>
+<td align="center" width="120">🔧<br><b>Model Deployment</b></td>
+<td align="center" width="120">🧪<br><b>Model Evaluation</b></td>
+<td align="center" width="120">🔮<br><b>Transfer Learning</b></td>
 </tr>
 </table>
 
@@ -281,28 +337,14 @@ class RashmiGuddappanavar:
 
 <table align="center">
 <tr>
-
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=github" width="55" height="55" />
 <br>GitHub Copilot
 </td>
-
-<td align="center" width="120">
-🤖<br><b>ChatGPT</b>
-</td>
-
-<td align="center" width="120">
-🧠<br><b>Claude Code</b>
-</td>
-
-<td align="center" width="120">
-⚡<br><b>Cursor</b>
-</td>
-
-<td align="center" width="120">
-💻<br><b>Codex</b>
-</td>
-
+<td align="center" width="120">🤖<br><b>ChatGPT</b></td>
+<td align="center" width="120">🧠<br><b>Claude Code</b></td>
+<td align="center" width="120">⚡<br><b>Cursor</b></td>
+<td align="center" width="120">💻<br><b>Codex</b></td>
 </tr>
 </table>
 
@@ -434,8 +476,8 @@ class RashmiGuddappanavar:
 | **Academic Excellence** | CGPA: **8.77/10** (B.E. AI & ML) • Class 12: **89%** • Class 10: **85.95%** |
 | **Python Full Stack Internship** | Building full-stack applications using Python, Django, Flask, REST APIs, and MySQL |
 | **AI & ML Projects** | Implemented sentiment analysis (BERT) and real-time object detection (YOLO, OpenCV) |
-| **Open Source Developer** | GitHub projects showcasing AI, ML, and full-stack development work |
-
+| **Data Analytics Work** | Built ETL pipelines, RFM & churn analysis, and real-time BI dashboards with Power BI/Tableau |
+| **Open Source Developer** | GitHub projects showcasing AI, ML, Data Analytics, and full-stack development work |
 
 </div>
 
@@ -451,6 +493,7 @@ class RashmiGuddappanavar:
 - Machine Learning Fundamentals
 - Full-Stack Web Development
 - Natural Language Processing
+- LLMs, RAG & AI Agent Frameworks (LangChain, LangGraph)
 
 </td>
 <td width="33%" valign="top">
@@ -458,8 +501,9 @@ class RashmiGuddappanavar:
 ### 🔨 Building
 - **AI Image Classifier**: CNN-based web application
 - **E-Commerce Platform**: MERN stack implementation
-- Sentiment Analysis Tool: NLP model deployment
-- Task Management System: Collaborative app
+- **Sentiment Analysis Tool**: NLP model deployment
+- **Task Management System**: Collaborative app
+- **Real-Time Analytics Dashboard**: Live KPIs, auto-refresh & BI reporting
 
 </td>
 <td width="33%" valign="top">
@@ -468,6 +512,8 @@ class RashmiGuddappanavar:
 - AI applications in healthcare diagnostics
 - Sentiment analysis for social media
 - Automated code review systems
+- Customer segmentation & churn prediction
+- RAG-based knowledge assistants
 - User experience optimization in web apps
 
 </td>
@@ -484,7 +530,7 @@ class RashmiGuddappanavar:
 
 <div align="center">
 
-I'm actively seeking collaboration on **AI/ML projects**, **full-stack development**, and **open-source contributions**.
+I'm actively seeking collaboration on **AI/ML projects**, **data analytics & BI**, **full-stack development**, and **open-source contributions**.
 
 <a href="https://www.linkedin.com/in/rashmi-guddappanavar-94357a26a/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
